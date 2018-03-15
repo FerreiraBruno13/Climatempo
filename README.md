@@ -15,3 +15,9 @@
 
 ### Instale as bibliotecas necessárias:
 > $ pip install -r requirements.txt
+
+## Utilização:
+> Abra o arquivo Climatempo72h.py
+> Digite o nome da cidade desejada (com acentos)
+> O programa irá abrir um gráfico com a previsão da cidade pesquisada
+> Visualização ideal em tela cheia (devido a quantidade de informação)
