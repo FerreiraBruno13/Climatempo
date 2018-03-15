@@ -1,6 +1,8 @@
 # Climatempo
 	Coleta dados meteorológicos da API Advisor Climatempo e retorna a previsão de 72 horas para a cidade pesquisada.
 	https://advisor.climatempo.com.br/
+	
+	Status: Desenvolvimento
 
 ## Tecnologias:
 * Python 3.6.4
